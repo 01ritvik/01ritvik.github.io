@@ -22,25 +22,20 @@
 - Mentored over 60 students for skill development and served as a representative for club events, contributing to improved overall functioning
 
 ## Projects
-### Stock Trading Algorithm
+1 .### Stock Trading Algorithm
+- Developed a stock prediction algorithm that utilizes advanced metrics and analysis methods. By integrating historical price data, technical indicators, and incorporating sentiment analysis from financial news, the algorithm provides accurate forecasts of stock movements.
 
-Developed a stock prediction algorithm that utilizes advanced metrics and analysis methods. By integrating historical price data, technical indicators, and incorporating sentiment analysis from financial news, the algorithm provides accurate forecasts of stock movements.
+2. ### TSP Evolved: A Bio-Inspired Approach with ACO and Cheapest Links
+- Embarking on the Traveling Salesman Problem (TSP), the project employs a dual strategy, combining the powerful Ant Colony Optimization **(ACO)** inspired by nature's navigation, and the Cheapest Link Algorithm. Utilizing graph theory to solve complex problems, this method successfully addresses the **NP-hard** problems of the TSP and opens the door to optimized city routes that are more effective and economical.
 
-### TSP Evolved: A Bio-Inspired Approach with ACO and Cheapest Links
+3. ### RL-powered FLAN-T5: Biased Bites to Balanced Briefs
+- This project resulted in a significant advancement in the field of responsible AI and ethical **NLP**. By enabling *FLAN-T5* to generate fewer toxic summaries, this work paves the way for more inclusive and constructive AI-powered dialogue systems. This work, with its transformative impact on responsible AI and ethical communication, paves the way for a future where AI dialogues foster understanding. 
 
-Embarking on the Traveling Salesman Problem (TSP), the project employs a dual strategy, combining the powerful Ant Colony Optimization **(ACO)** inspired by nature's navigation, and the Cheapest Link Algorithm. Utilizing graph theory to solve complex problems, this method successfully addresses the **NP-hard** problems of the TSP and opens the door to optimized city routes that are more effective and economical.
+4. ### WhatsApp Chat Automation
+- Using **SQL** and **Python**, created an automated WhatsApp messaging program that integrates database information to allow for user-friendly entry of recipient details. This permits message delivery at any time, without the requirement for direct phone engagement.
 
-### RL-powered FLAN-T5: Biased Bites to Balanced Briefs
-
-This project resulted in a significant advancement in the field of responsible AI and ethical **NLP**. By enabling *FLAN-T5* to generate fewer toxic summaries, this work paves the way for more inclusive and constructive AI-powered dialogue systems. This work, with its transformative impact on responsible AI and ethical communication, paves the way for a future where AI dialogues foster understanding. 
-
-### WhatsApp Chat Automation
-
-Using **SQL** and **Python**, created an automated WhatsApp messaging program that integrates database information to allow for user-friendly entry of recipient details. This permits message delivery at any time, without the requirement for direct phone engagement.
-
-### Healthcare Data Analyst: R Modeling & Insights
-
-Utilizing **R** and **Python**, advanced statistical methods were used to extract insights from complex healthcare datasets, which were used to create the best suitable model which can be used in real world.
+5. ### Healthcare Data Analyst: R Modeling & Insights
+- Utilizing **R** and **Python**, advanced statistical methods were used to extract insights from complex healthcare datasets, which were used to create the best suitable model which can be used in real world.
 
 ## Key Skills
 
