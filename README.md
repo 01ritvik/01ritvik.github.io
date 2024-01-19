@@ -3,8 +3,6 @@
 - B.Tech. in Computer Science and Engineering | SRM Institute of Science and Technology (_2019 - 2023_)
   - *Received merit based scholarship* 
 
-### Technical Skills: Python, SQL, R, Excel, Tableau, Apache Spark, Power BI.
-
 ## Work Experience
 **Graduate Research Assistant @ Boston University (_Jan 2024 - Present_)**
 - Actively contributing to the advancement of research initiatives by conducting thorough literature reviews, collecting, and analyzing data, and assisting in the development of research methodologies related to Artificial Intelligence (AI).
@@ -44,6 +42,14 @@ Using **SQL** and **Python**, created an automated WhatsApp messaging program th
 
 Utilizing **R** and **Python**, advanced statistical methods were used to extract insights from complex healthcare datasets, which were used to create the best suitable model which can be used in real world.
 
+## Key Skills
+
+- Data Science
+- Data Analysis
+- Data Modelling
+- Machine Learning
+- Data Visualization
+- Data Mining
 
 ## Publications
 1. [Gupta, Ritvik & Arora, Chinmay, 2022, Face Mask Detection using Deep Learning and CNN architecture, IJSER, Volume 10 Issue 12.](https://www.ijser.in/archives/v10i12/SE221206135738.pdf)
