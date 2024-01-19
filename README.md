@@ -22,7 +22,7 @@
 - Mentored over 60 students for skill development and served as a representative for club events, contributing to improved overall functioning
 
 ## Projects
-1 .### Stock Trading Algorithm
+1. ### Stock Trading Algorithm
 - Developed a stock prediction algorithm that utilizes advanced metrics and analysis methods. By integrating historical price data, technical indicators, and incorporating sentiment analysis from financial news, the algorithm provides accurate forecasts of stock movements.
 
 2. ### TSP Evolved: A Bio-Inspired Approach with ACO and Cheapest Links
