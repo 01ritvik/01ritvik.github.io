@@ -1,13 +1,18 @@
-# Data Scientist
-
 ## Education
 - Masters in Applied Data Analytics | Boston University (_Sep 2023 - Present_)
-- B.Tech. in Computer Science and Engineering| SRM Institute of Science and Technology (_2019 - 2023_)
+- B.Tech. in Computer Science and Engineering | SRM Institute of Science and Technology (_2019 - 2023_)
+  - *Received merit based scholarship* 
+
+### Technical Skills: Python, SQL, R, Excel, Tableau, Apache Spark, Power BI.
 
 ## Work Experience
 **Graduate Research Assistant @ Boston University (_Jan 2024 - Present_)**
 - Actively contributing to the advancement of research initiatives by conducting thorough literature reviews, collecting, and analyzing data, and assisting in the development of research methodologies related to Artificial Intelligence (AI).
 - Developing user-friendly interfaces, enabling students to interact efficiently with the system and engaging in the identification and integration of emerging technologies to enhance system capabilities.
+
+**Teaching Assistant @ SRM Institute of Science and Technology (_July 2022 - Dec 2022_)**
+- Empowered 60 plus students to conquer *Data Structures & Algorithms* through engaging instruction, interactive sessions, and personalized support. Elevated learning by organizing talks with industry experts and facilitating collaborative study groups, fostering a vibrant learning community.
+- Contributed to improved assessment by developing effective test materials and collaborating on accurate and timely grading.
 
 **Python Developer Intern @ Enhanced Communications & Technologies PVT. LTD. (_March 2021 - May 2021_)**
 - Established a sturdy data warehouse framework, emphasizing **Linux**, **SQL**, and **Python** integration to improve speed and stability. This integrated environment allows advanced statistical analysis, creating a foundation for informed, data-driven decision-making processes.
@@ -39,7 +44,6 @@ Using **SQL** and **Python**, created an automated WhatsApp messaging program th
 
 Utilizing **R** and **Python**, advanced statistical methods were used to extract insights from complex healthcare datasets, which were used to create the best suitable model which can be used in real world.
 
-#### Technical Skills: Python, SQL, R, Excel, Tableau, Apache Spark
 
 ## Publications
 1. [Gupta, Ritvik & Arora, Chinmay, 2022, Face Mask Detection using Deep Learning and CNN architecture, IJSER, Volume 10 Issue 12.](https://www.ijser.in/archives/v10i12/SE221206135738.pdf)
