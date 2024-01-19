@@ -9,7 +9,8 @@ B.Tech in Computer Science and Engineering
 
 ### Work Experience
 Graduate Research Assistant @ boston university
-- wdwe
-- wdw
+
+Python Developer Intern @ Enhanced Communications & Technologies pvt. ltd
+
 
 ### Projects
