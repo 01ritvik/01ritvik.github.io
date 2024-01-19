@@ -25,11 +25,11 @@ Developed a stock prediction algorithm that utilizes advanced metrics and analys
 
 ### TSP Evolved: A Bio-Inspired Approach with ACO and Cheapest Links
 
-Embarking on the Traveling Salesman Problem (TSP), the project employs a dual strategy, combining the powerful Ant Colony Optimization (ACO) inspired by nature's navigation, and the Cheapest Link Algorithm. Utilizing graph theory to solve complex problems, this method successfully addresses the **NP-hard** problems of the TSP and opens the door to optimized city routes that are more effective and economical.
+Embarking on the Traveling Salesman Problem (TSP), the project employs a dual strategy, combining the powerful Ant Colony Optimization **(ACO)** inspired by nature's navigation, and the Cheapest Link Algorithm. Utilizing graph theory to solve complex problems, this method successfully addresses the **NP-hard** problems of the TSP and opens the door to optimized city routes that are more effective and economical.
 
 ### RL-powered FLAN-T5: Biased Bites to Balanced Briefs
 
-This project resulted in a significant advancement in the field of responsible AI and ethical **NLP**. By enabling *FLAN-T5* to generate fewer toxic summaries, this work paves the way for more inclusive and constructive AI-powered dialogue systems. This work, with its transformative impact on responsible AI and ethical communication, paves the way for a future where AI dialogues foster understanding.
+This project resulted in a significant advancement in the field of responsible AI and ethical **NLP**. By enabling *FLAN-T5* to generate fewer toxic summaries, this work paves the way for more inclusive and constructive AI-powered dialogue systems. This work, with its transformative impact on responsible AI and ethical communication, paves the way for a future where AI dialogues foster understanding. 
 
 ### WhatsApp Chat Automation
 
