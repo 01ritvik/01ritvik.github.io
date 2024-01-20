@@ -1,6 +1,6 @@
 ## Education
-- Masters in Applied Data Analytics | Boston University (_Sep 2023 - Present_)
-- B.Tech. in Computer Science and Engineering | SRM Institute of Science and Technology (_2019 - 2023_)
+- Masters in Applied Data Analytics | Boston University (Sep 2023 - Present)
+- B.Tech. in Computer Science and Engineering | SRM Institute of Science and Technology (2019 - 2023)
   - *Received merit based scholarship* 
 
 ## Work Experience
