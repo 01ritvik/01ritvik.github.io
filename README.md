@@ -32,7 +32,7 @@
 - Designed and implemented a WhatsApp chat bot proficient in reading and storing incoming messages. The bot is engineered to intelligently respond to messages based on predefined rules and conditions. The bot effectively automates communication processes, enhancing user experience and efficiency within the WhatsApp platform.
 
 4. ### [Android Malware Detector](https://github.com/01ritvik/Android-Malware-Detector-)
--  Demonstrated expertise in complex data preparation approaches applied to a large dataset as the lead of an advanced Python project that aimed to detect Android malware. Developed novel approaches by integrating several classifiers, including GMMs, decision trees, and neural networks. Found the best model and put it into action, expanding the capabilities of Android's malware detection system.
+-  Demonstrated expertise in complex data preparation approaches applied to a large dataset as the lead of an advanced Python project that aimed to detect Android malware. Developed novel approaches by integrating several classifiers, including **GMM**, **decision trees**, and **neural networks**. Found the best model and put it into action, expanding the capabilities of Android's malware detection system.
 
 6. ### [WhatsApp Chat Automation](https://github.com/01ritvik/whatsapp-automation)
 - Using **SQL** and **Python**, created an automated WhatsApp messaging program that integrates database information to allow for user-friendly entry of recipient details. This permits message delivery at any time, without the requirement for direct phone engagement.
