@@ -50,12 +50,31 @@
 1. [Gupta, Ritvik & Arora, Chinmay, 2022, Face Mask Detection using Deep Learning and CNN architecture, IJSER, Volume 10 Issue 12.](https://www.ijser.in/archives/v10i12/SE221206135738.pdf)
 2. [Gupta, Ritvik & Arora, Chinmay, 2023, Integrated Payment System for University, IJSER, Volume 11 Issue 8.](Https://www.ijser.in/archives/v11i8/SE23822002659.pdf)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Button Example</title>
+  <style>
+    /* Style the button */
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    /* Change color on hover */
+    .button:hover {
+      background-color: #2980b9;
+    }
+  </style>
 </head>
 <body>
 
@@ -63,8 +82,4 @@
 
 </body>
 </html>
-
-</body>
-</html>
-
 
