@@ -49,3 +49,6 @@
 ## Publications
 1. [Gupta, Ritvik & Arora, Chinmay, 2022, Face Mask Detection using Deep Learning and CNN architecture, IJSER, Volume 10 Issue 12.](https://www.ijser.in/archives/v10i12/SE221206135738.pdf)
 2. [Gupta, Ritvik & Arora, Chinmay, 2023, Integrated Payment System for University, IJSER, Volume 11 Issue 8.](Https://www.ijser.in/archives/v11i8/SE23822002659.pdf)
+
+[Projects](https://www.google.com/)
+
