@@ -55,18 +55,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  <title>Dropdown Button</title>
+  <title>Button Example</title>
 </head>
 <body>
 
-<div class="dropdown">
-  <button class="dropbtn">Projects</button>
-  <div class="dropdown-content">
-    <a href="https://www.google.com/">Link 1</a>
-    <!-- Add more links as needed -->
-  </div>
-</div>
+<a href="https://www.google.com/" class="button">Projects</a>
+
+</body>
+</html>
 
 </body>
 </html>
