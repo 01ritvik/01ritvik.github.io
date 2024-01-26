@@ -51,11 +51,3 @@
 2. [Gupta, Ritvik & Arora, Chinmay, 2023, Integrated Payment System for University, IJSER, Volume 11 Issue 8.](Https://www.ijser.in/archives/v11i8/SE23822002659.pdf)
 
 
-
-
-
-<a href="https://www.google.com/" class="button">Projects</a>
-
-</body>
-</html>
-
