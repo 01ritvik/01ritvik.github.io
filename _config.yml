@@ -2,9 +2,7 @@ title: Ritvik Gupta
 description: Data Scientist /Analyst with over two years of experience extracting insights from complex data sets having python and machine learning tool expertise. Translated technical findings into business solutions that can be implemented for delivery. Eager to contribute expertise to data-driven transformational initiatives with a Go Get It Attitude.
 
 show_downloads: false
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-social:
-  linkedin: https://www.linkedin.com/in/ritvik-gupta-81852618b/
-  
+theme: jekyll-theme-cayman
+ 	plugins:
+ 	- jekyll-seo-tag
+ 	author: Barud
