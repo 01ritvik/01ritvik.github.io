@@ -1,7 +1,37 @@
 title: Ritvik Gupta
-description: Data Scientist /Analyst with over two years of experience extracting insights from complex data sets having python and machine learning tool expertise. Translated technical findings into business solutions that can be implemented for delivery. Eager to contribute expertise to data-driven transformational initiatives with a Go Get It Attitude.
+description: "Data Scientist/Analyst | Python & Machine Learning Expert | Transforming Data into Actionable Insights"
 
+# Show site elements
 show_downloads: false
+show_related: true
+
+# Theme Configuration
 remote_theme: pages-themes/minimal@v0.2.0
+# Add a theme-specific setting for navigation
+minima:
+  skin: dark # Choose between 'dark' or 'light' based on preference
+
+# Social Media Links - Update with your actual usernames
+social_links:
+  linkedin: https://www.linkedin.com/in/ritvik-gupta-81852618b/
+  email: gritvik8@gmail.com
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one 	
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Tag plugin for better SEO
+seo:
+  type: Person
+  name: Ritvik Gupta
+  role: Data Scientist/Analyst
+  social:
+    - linkedin: https://www.linkedin.com/in/ritvik-gupta-81852618b/
+
+
+# Enable Disqus comments on posts (optional) - Replace with your Disqus shortname
+disqus:
+  shortname: Ritvik
