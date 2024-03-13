@@ -23,28 +23,30 @@
 
 ## Projects
 1. ### [Algorithm for stock market analysis](https://github.com/01ritvik/Stock-trading-algorithm)
-- Developed a stock prediction algorithm that utilizes *advanced metrics* and *analysis methods*. By integrating historical price data, technical indicators, and incorporating sentiment analysis from financial news, the algorithm provides accurate forecasts of stock movements.
+- Crafted an innovative stock forecasting algorithm that leverages state-of-the-art metrics and analysis methodologies. This algorithm integrates a comprehensive array of data sources, including historical pricing trends, technical indicators, and sentiment analysis derived from financial news, to generate precise predictions of stock market movements..
 
 2. ### [TSP Evolved: A Bio-Inspired Approach with ACO and Cheapest Links](https://github.com/01ritvik/TSP-evolved)
-- Embarking on the Traveling Salesman Problem (TSP), the project employs a dual strategy, combining the powerful Ant Colony Optimization **(ACO)** inspired by nature's navigation, and the Cheapest Link Algorithm. Utilizing graph theory to solve complex problems, this method successfully addresses the **NP-hard** problems of the TSP and opens the door to optimized city routes that are more effective and economical.
+- In addressing the Traveling Salesman Problem (TSP), this project adopts a hybrid strategy that marries the ingenuity of Ant Colony Optimization (ACO)—a technique inspired by the foraging behavior of ants—with the efficiency of the Cheapest Link Algorithm. By harnessing the principles of graph theory, this approach effectively navigates the NP-hard challenges of the TSP, paving the way for the optimization of city routes in a manner that is both cost-effective and efficient.
 
 3. ### [Whatsapp AI Chatbot](https://github.com/01ritvik/whatsapp-chatbox)
-- Designed and implemented a WhatsApp chat bot proficient in reading and storing incoming messages. The bot is engineered to intelligently respond to messages based on predefined rules and conditions. The bot effectively automates communication processes, enhancing user experience and efficiency within the WhatsApp platform.
+- Engineered a sophisticated WhatsApp chatbot that excels in processing and archiving incoming messages. This bot is designed with advanced rule-based algorithms, enabling it to respond intelligently to messages according to a set of predefined parameters. Its deployment automates interactions on the WhatsApp platform, significantly enhancing the user experience and operational efficiency.
 
 4. ### [Android Malware Detector](https://github.com/01ritvik/Android-Malware-Detector-)
--  Demonstrated expertise in complex data preparation approaches applied to a large dataset as the lead of an advanced Python project that aimed to detect Android malware. Developed novel approaches by integrating several classifiers, including **GMM**, **decision trees**, and **neural networks**. Found the best model and put it into action, expanding the capabilities of Android's malware detection system.
+-  Led a cutting-edge Python project that refined data processing techniques for a vast dataset, aimed at detecting Android malware. This project stood out by merging diverse classification methods, including **Gaussian Mixture Models (GMM)**, **decision trees**, and **neural networks**, to discover an optimal model. This breakthrough model was then operationalized, significantly enhancing the Android malware detection framework with its advanced capabilities.
 
 6. ### [WhatsApp Chat Automation](https://github.com/01ritvik/whatsapp-automation)
 - Using **SQL** and **Python**, created an automated WhatsApp messaging program that integrates database information to allow for user-friendly entry of recipient details. This permits message delivery at any time, without the requirement for direct phone engagement.
 
 6. ### [Healthcare Data Analyst: R Modeling & Insights](https://github.com/01ritvik/Health-care-analysis)
-- Utilizing **R** and **Python**, advanced statistical methods were used to extract insights from complex healthcare datasets, which were used to create the best suitable model which can be used in real world.
+- Leveraging both R and Python, we applied sophisticated statistical techniques to analyze intricate healthcare datasets. This approach enabled us to derive meaningful insights, which were instrumental in developing an optimal model tailored for real-world application
 
 ## Key Skills
 1. Programming Languages: Python, R, SQL, C++, GO
 2. Softwares: Jupyter Notebook, RS Studio, Excel, Power BI, Tableau
-3. Big Data Frameworks: Apache Spark, AWS
-4. Data Science and Analysis: Data Mining, Statistical Analysis, Machine Learning, Data Visualization
+3. Big Data Frameworks: Apache Spark, AWS(S3 & EMR)
+4. Data Science and Analysis: Data Mining, Statistical Analysis, Machine Learning, Natural Language Processing (NLP)
+5. Data Management and Databases: Relational Databases (MySQL, PostgreSQL), Data Warehousing Solutions (Snowflake)
+
 
 ## Publications
 1. [Gupta, Ritvik & Arora, Chinmay, 2022, Face Mask Detection using Deep Learning and CNN architecture, IJSER, Volume 10 Issue 12.](https://www.ijser.in/archives/v10i12/SE221206135738.pdf)
