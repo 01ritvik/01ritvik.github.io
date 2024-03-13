@@ -1,37 +1,37 @@
 title: Ritvik Gupta
 description: "Data Scientist/Analyst | Python & Machine Learning Expert | Transforming Data into Actionable Insights"
 
-# Show site elements
+# Show downloads button (true to show, false to hide)
 show_downloads: false
-show_related: true
 
 # Theme Configuration
 remote_theme: pages-themes/minimal@v0.2.0
-# Add a theme-specific setting for navigation
-minima:
-  skin: dark # Choose between 'dark' or 'light' based on preference
 
-# Social Media Links - Update with your actual usernames
-social_links:
-  linkedin: https://www.linkedin.com/in/ritvik-gupta-81852618b/
-  email: gritvik8@gmail.com
-
-# Plugins
+# Social Media Links
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
 
-# SEO Tag plugin for better SEO
+# SEO settings
 seo:
   type: Person
   name: Ritvik Gupta
   role: Data Scientist/Analyst
-  social:
-    - linkedin: https://www.linkedin.com/in/ritvik-gupta-81852618b/
+  links:
+    - url: https://www.linkedin.com/in/ritvik-gupta-81852618b/
+      name: LinkedIn
+    - url: https://github.com/01ritvik
+      name: GitHub
 
 
-# Enable Disqus comments on posts (optional) - Replace with your Disqus shortname
 disqus:
-  shortname: Ritvik
+  shortname: yourshortname
+
+# Navigation Bar (Add or remove items as needed)
+navigation:
+  - title: Publications
+    url: https://www.ijser.in/archives/v10i12/SE221206135738.pdf
+    url: https://www.ijser.in/archives/v11i8/SE23822002659.pdf
+
